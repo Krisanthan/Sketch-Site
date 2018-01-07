@@ -1,0 +1,21 @@
+#header {
+	width: 100%;
+	text-align: center;	
+}
+
+#container {
+	padding-top: 200px;
+	width: 208px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.square {
+	display: inline-block;
+	float: left;
+	height: 48px;
+	width: 48px;
+	background-color: white;
+	border: 2px solid;	
+	border-radius: 2px;
+}
